@@ -13,3 +13,4 @@ JavaScript — Dynamic functionality and API integration
 Search weather by city name
 Displays temperature, humidity and wind speed.
 Responsive design for mobile and desktop.
+<img width="1920" height="1080" alt="weather-app-output" src="https://github.com/user-attachments/assets/a340ca50-289d-4003-b0fb-856fde22a265" />
